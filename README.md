@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gauravkumar556
-- 👀 I’m interested in machine learning...
-- 🌱 I’m currently learning Machine learning using Python
+- 👋 Hi, I’m @gauravkumar556.
+- 👀 I’m interested in full stack development as well as machine learning...
+- 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 
 <!---
